@@ -1,0 +1,19 @@
+{
+    "devprivate": {
+        "awscloudformation": {
+            "AuthRoleName": "gqlimgprivate-devprivate-20190729171843-authRole",
+            "UnauthRoleArn": "arn:aws:iam::444642468219:role/gqlimgprivate-devprivate-20190729171843-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::444642468219:role/gqlimgprivate-devprivate-20190729171843-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "gqlimgprivate-devprivate-20190729171843-deployment",
+            "UnauthRoleName": "gqlimgprivate-devprivate-20190729171843-unauthRole",
+            "StackName": "gqlimgprivate-devprivate-20190729171843",
+            "StackId": "arn:aws:cloudformation:us-east-1:444642468219:stack/gqlimgprivate-devprivate-20190729171843/10216010-b23e-11e9-8640-12069a319f62"
+        },
+        "categories": {
+            "auth": {
+                "gqlimgprivate405f38a9": {}
+            }
+        }
+    }
+}

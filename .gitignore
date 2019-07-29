@@ -1,0 +1,70 @@
+amplifyagora
+amplify-testing
+amplify-workshop
+udemy-amplify
+
+# dependencies
+gqlimages/node_modules/
+gqlimages/.pnp
+gqlimages/.pnp.js
+
+# testing
+gqlimages//coverage
+
+# production
+gqlimages//build
+
+# misc
+gqlimages/.DS_Store
+gqlimages/.env.local
+gqlimages/.env.development.local
+gqlimages/.env.test.local
+gqlimages/.env.production.local
+
+gqlimages/npm-debug.log*
+gqlimages/yarn-debug.log*
+gqlimages/yarn-error.log*
+
+
+gqlimages/amplify/\#current-cloud-backend
+gqlimages/amplify/.config/local-*
+gqlimages/amplify/backend/amplify-meta.json
+gqlimages/amplify/backend/awscloudformation
+gqlimages/build/
+gqlimages/dist/
+gqlimages/node_modules/
+gqlimages/aws-exports.js
+gqlimages/awsconfiguration.json
+
+# dependencies
+gqlimgprivate/node_modules/
+gqlimgprivate/.pnp/
+gqlimgprivate/.pnp.js
+
+# testing
+gqlimgprivate//coverage
+
+# production
+gqlimgprivate//build
+
+# misc
+gqlimgprivate/.DS_Store
+gqlimgprivate/.env.local
+gqlimgprivate/.env.development.local
+gqlimgprivate/.env.test.local
+gqlimgprivate/.env.production.local
+
+gqlimgprivate/npm-debug.log*
+gqlimgprivate/yarn-debug.log*
+gqlimgprivate/yarn-error.log*
+
+#amplify
+gqlimgprivate/amplify/\#current-cloud-backend
+gqlimgprivate/amplify/.config/local-*
+gqlimgprivate/amplify/backend/amplify-meta.json
+gqlimgprivate/amplify/backend/awscloudformation
+gqlimgprivate/build/
+gqlimgprivate/dist/
+gqlimgprivate/node_modules/
+gqlimgprivate/aws-exports.js
+gqlimgprivate/awsconfiguration.json
